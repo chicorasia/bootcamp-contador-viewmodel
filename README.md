@@ -4,6 +4,8 @@ Exercício desenvolvido no módulo **ViewModel e Lifecycle para melhor experiên
 
 - configuração dos componentes por meio de viewbinding
 
+****
+
 Digital Innovation One
 Everis Kotlin Developer Bootcamp :green_heart:
 2021
